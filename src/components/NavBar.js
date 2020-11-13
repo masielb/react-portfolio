@@ -13,7 +13,7 @@ const NavBar = (props) => {
   return (
     <header>
       <Navbar className="navbar" color="white" light expand="md">
-        <NavbarBrand id="favicon" href="/">MB</NavbarBrand>
+        <NavbarBrand id="favicon" href="/">MASIEL BAUTISTA</NavbarBrand>
 
         <NavbarToggler onClick={toggleNavbar} className="mr-2" />
         <Collapse isOpen={!collapsed} navbar>
@@ -38,12 +38,6 @@ const NavBar = (props) => {
 
          
       </Navbar>
-
-     
-
-      <h1 className="MasielBautista" id="removeMobile">
-        MASIEL BAUTISTA
-      </h1>
 
     </header>
   );

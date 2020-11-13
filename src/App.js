@@ -4,19 +4,18 @@ import './App.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 // IMPORT PAGES 
-import ContactPage from './pages/ContactPage';
-import PorfolioPage from './pages/PortfolioPage';
 import Home from './pages/Home';
+import PorfolioPage from './pages/PortfolioPage';
+import ContactPage from './pages/ContactPage';
 
 // IMPORTING COMPONENTS 
+import NavBar from './components/NavBar';
 import About from './components/About';
 import Footer from './components/Footer';
-import NavBar from './components/NavBar';
 
 function App() {
   return (
     <Router>
-      <div className="App">
 
         <NavBar /> 
 
@@ -29,7 +28,6 @@ function App() {
 
         <Footer />
 
-      </div>
     </Router>
   );
 }
