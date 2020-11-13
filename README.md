@@ -23,10 +23,10 @@ HTML, CSS, JavaScript
 
 ## Application Demo
 ![applicationdemo](home1.png)
-(home2.png)
-(home3.png)
-(contact.png)
-(portfolio.png)
+![applicationdemo](home2.png)
+![applicationdemo](home3.png)
+![applicationdemo](contact.png)
+![applicationdemo](portfolio.png)
 
 ## Contact Information
 * Masiel Bautista
