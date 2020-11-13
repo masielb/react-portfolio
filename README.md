@@ -19,7 +19,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Technologies Used
-HTML, CSS, JavaScript
+HTML, CSS, Javascript, JSX, React, Bootstrap, React-DOM, React-Router-DOM
 
 ## Application Demo
 ![applicationdemo](home1.png)
