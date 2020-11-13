@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
     return (
-        <footer class="py-2 px-5 bg-dark sticky-bottom">
+        <footer class="py-2 px-5 bg-light sticky-bottom">
             <div className="row">
                 <small className="copyright"> Masiel Bautista &copy; 2020 </small>
                 <ul className="social-network social-circle ml-auto">
