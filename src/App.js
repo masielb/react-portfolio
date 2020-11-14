@@ -1,7 +1,7 @@
 // STYLING
 import './App.css';
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 // IMPORT PAGES 
 import Home from './pages/Home';
